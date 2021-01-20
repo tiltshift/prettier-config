@@ -1,11 +1,11 @@
 # prettier-config
 
-Standard [Prettier configuration](https://prettier.io/docs/en/configuration.html) for Labs team projects.
+Standard [Prettier configuration](https://prettier.io/docs/en/configuration.html) for Tilt/Shift projects.
 
 ## Installation
 
 ```bash
-yarn add --dev @prisma-labs/prettier-config
+yarn add --dev @tiltshift/prettier-config
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ In your `package.json`
 
 ```json
 {
-  "prettier": "@prisma-labs/prettier-config"
+  "prettier": "@tiltshift/prettier-config"
 }
 ```
 
@@ -22,7 +22,7 @@ If you wish you _extend_ these settings then in your `.prettierrc.js`
 
 ```js
 module.exports = {
-  ...require('@prisma-labs/prettier-config'),
+  ...require('@tiltshift/prettier-config'),
   semi: false,
 }
 ```

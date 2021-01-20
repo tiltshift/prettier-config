@@ -1,9 +1,9 @@
 {
-  "name": "@prisma-labs/prettier-config",
+  "name": "@tiltshift/prettier-config",
   "version": "0.0.0-dripip",
   "main": "prettier-config.json",
-  "repository": "git@github.com:prisma-labs/prettier-config.git",
-  "author": "Prisma Labs",
+  "repository": "https://github.com/tiltshift/prettier-config.git",
+  "author": "Tilt/Shift",
   "license": "MIT",
   "files": [
     "prettier-config.json"
