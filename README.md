@@ -1,3 +1,5 @@
+👋
+
 # prettier-config
 
 Standard [Prettier configuration](https://prettier.io/docs/en/configuration.html) for Tilt/Shift projects.
